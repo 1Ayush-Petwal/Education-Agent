@@ -1,0 +1,3 @@
+agent:
+    name: SampleAction
+    path: ./agent/actions/SampleAction.ts
