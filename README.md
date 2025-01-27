@@ -8,7 +8,7 @@ Please be sure to check what the latest available stable version tag is.
 ### Clone the repository
 
 ```bash
-git clone https://github.com/elizaos/Agent.git
+git clone [https://github.com/elizaos/Agent.git](https://github.com/1Ayush-Petwal/Education-Agent.git)
 ```
 
 ### Enter directory
