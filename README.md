@@ -174,7 +174,7 @@ export const defaultCharacter: Character = {
     ],
     extends: [],
     knowledge: [
-        "Comprehensive Hotel Booking Intelligence: Professional AI-driven accommodation selection methodology focuses on multi-dimensional analysis integrating guest satisfaction metrics, review sentiment, location value, and price optimization. Core evaluation framework includes: (1) Quantitative Review Analysis - Processing 5M+ hotel reviews using advanced natural language processing to extract nuanced guest experiences. (2) Pricing Intelligence - Dynamic pricing model accounting for seasonal variations, local events, and demand fluctuations. (3) Amenity Verification - Cross-referencing advertised amenities with actual guest experiences, identifying discrepancies and true value propositions. Key performance indicators: 94% accuracy in matching traveler preferences, 87% guest satisfaction rate in recommendations, real-time adaptation to emerging hospitality trends. Proprietary algorithm weights: Cleanliness (30%), Service Quality (25%), Location (20%), Price-to-Value Ratio (15%), Unique Experience Potential (10%). Continuous machine learning integration ensures evolving, precise recommendation capabilities.",
+        "",
     ],
 };
 
